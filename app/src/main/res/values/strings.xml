@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sendItLater</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="phone_number">Enter Phone Number</string>
+    <string name="sms_message">Enter SMS Message</string>
+    <string name="title_activity_send_smsmessage">sendSMSMessage</string>
+
+</resources>
